@@ -6,9 +6,9 @@ This repository contains **20 frontend projects** that were developed to help de
 
 ## **🔗 Projects**
 
-1. <a href="">Company Portfolio</a><br>
-2. <a href="">Resturant Website</a><br>
-3. <a href="">Hotel Website</a><br>
+1. <a href="https://company-portfolio-1144.netlify.app/">Company Portfolio</a><br>
+2. <a href="https://restaurant-website-1144/">Resturant Website</a><br>
+3. <a href="https://hotel-website-1144/">Hotel Website</a><br>
 4. <a href="https://generate-pass5.netlify.app/">Password Generator </a><br>
 5. <a href="https://qr-code-generator10.netlify.app/">QR code Generator</a><br>
 6. <a href="https://drawing-app-14.netlify.app/">Drawing App</a><br>
@@ -22,10 +22,10 @@ This repository contains **20 frontend projects** that were developed to help de
 14. <a href="https://snake-game-37.netlify.app/">Snake Game</a><br>
 15. <a href="https://audio-to-text-40.netlify.app/">Text to Word Convertor</a><br>
 16. <a href="https://todo-list-41.netlify.app/">Todo List App</a><br>
-17. <a href="">Github User Search</a><br>
+17. <a href="https://github-search-1144/">Github User Search</a><br>
 18. <a href="https://tic-tac-toe-1144.netlify.app/">Tic Tac Toe Game</a><br>
-19. <a href="">W3school Template</a><br>
-20. <a href="">Weather App</a><br>
+19. <a href="https://w3shool-template-1144/">W3school Template</a><br>
+20. <a href="https://weather-app-1144/">Weather App</a><br>
 
 ## **🔧 Installation & Setup**
 
@@ -43,6 +43,9 @@ Each project is contained within its own folder. To view the project, simply ope
 
 ## **🤝 Contributing**
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+
 If you would like to contribute to this repository, feel free to submit a pull request or open an issue. We welcome contributions from the community to make these projects even better. Let’s build something amazing together. 💡💻
 
 ## **📬 Let's Connect!**
@@ -50,5 +53,5 @@ If you would like to contribute to this repository, feel free to submit a pull r
 Got feedback or ideas? Reach out to me! I’d love to hear from you. 🎉
 
 - 📧 Email: vipulsuthar1144@gmail.com
-- 💡 Website: [Vipul Suthar | Portfolip](https://vipulsuthar1144.web.app)
+- 💡 Website: [Vipul Suthar | Portfolio](https://vipulsuthar1144.web.app)
 - 💼 LinkedIn: [Vipul Suthar | LinkedIn](https://www.linkedin.com/in/vipulsuthar1144/)
