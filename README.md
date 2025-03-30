@@ -7,8 +7,8 @@ This repository contains **20 frontend projects** that were developed to help de
 ## **🔗 Projects**
 
 1. <a href="https://company-portfolio-1144.netlify.app/">Company Portfolio</a><br>
-2. <a href="https://restaurant-website-1144/">Resturant Website</a><br>
-3. <a href="https://hotel-website-1144/">Hotel Website</a><br>
+2. <a href="https://restaurant-website-1144.netlify.app/">Resturant Website</a><br>
+3. <a href="https://hotel-website-1144.netlify.app/">Hotel Website</a><br>
 4. <a href="https://generate-pass5.netlify.app/">Password Generator </a><br>
 5. <a href="https://qr-code-generator10.netlify.app/">QR code Generator</a><br>
 6. <a href="https://drawing-app-14.netlify.app/">Drawing App</a><br>
@@ -22,10 +22,10 @@ This repository contains **20 frontend projects** that were developed to help de
 14. <a href="https://snake-game-37.netlify.app/">Snake Game</a><br>
 15. <a href="https://audio-to-text-40.netlify.app/">Text to Word Convertor</a><br>
 16. <a href="https://todo-list-41.netlify.app/">Todo List App</a><br>
-17. <a href="https://github-search-1144/">Github User Search</a><br>
+17. <a href="https://github-search-1144.netlify.app/">Github User Search</a><br>
 18. <a href="https://tic-tac-toe-1144.netlify.app/">Tic Tac Toe Game</a><br>
-19. <a href="https://w3shool-template-1144/">W3school Template</a><br>
-20. <a href="https://weather-app-1144/">Weather App</a><br>
+19. <a href="https://w3shool-template-1144.netlify.app/">W3school Template</a><br>
+20. <a href="https://weather-app-1144.netlify.app/">Weather App</a><br>
 
 ## **🔧 Installation & Setup**
 
